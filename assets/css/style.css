@@ -117,8 +117,8 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   width: 40px;
   height: 40px;
-  border-radius: 50px;
-  background: #209dd8;
+  border-radius: 5px;
+  background: #adb5bd;
   color: #fff;
   transition: all 0.4s;
 }
@@ -1151,7 +1151,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #5ce1e6;
+  background: #209dd8;
 }
 
 #footer .footer-top {
